@@ -1,0 +1,21 @@
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\oef1.deps.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\oef1.runtimeconfig.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\oef1.exe
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\Pokemon Tester.exe
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\Pokemon Tester.deps.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\Pokemon Tester.runtimeconfig.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\Pokemon Tester.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\Pokemon Tester.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\oef1.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\bin\Debug\net6.0\oef1.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\refint\Pokemon Tester.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\Pokemon Tester.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week2\Pokemon Tester\obj\Debug\net6.0\ref\Pokemon Tester.dll

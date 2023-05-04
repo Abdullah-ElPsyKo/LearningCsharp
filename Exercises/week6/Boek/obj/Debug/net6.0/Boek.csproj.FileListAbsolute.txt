@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\bin\Debug\net6.0\Boek.exe
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\bin\Debug\net6.0\Boek.deps.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\bin\Debug\net6.0\Boek.runtimeconfig.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\bin\Debug\net6.0\Boek.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\bin\Debug\net6.0\Boek.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\refint\Boek.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\Boek.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week6\Boek\obj\Debug\net6.0\ref\Boek.dll

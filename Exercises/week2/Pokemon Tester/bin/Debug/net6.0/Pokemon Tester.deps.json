@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pokemon Tester/1.0.0": {
+        "dependencies": {
+          "oef1": "1.0.0"
+        },
+        "runtime": {
+          "Pokemon Tester.dll": {}
+        }
+      },
+      "oef1/1.0.0": {
+        "runtime": {
+          "oef1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokemon Tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "oef1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

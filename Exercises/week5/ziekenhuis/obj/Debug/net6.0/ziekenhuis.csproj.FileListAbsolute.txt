@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\week5\ziekenhuis\bin\Debug\net6.0\ziekenhuis.exe
+C:\Users\ASUS\source\repos\week5\ziekenhuis\bin\Debug\net6.0\ziekenhuis.deps.json
+C:\Users\ASUS\source\repos\week5\ziekenhuis\bin\Debug\net6.0\ziekenhuis.runtimeconfig.json
+C:\Users\ASUS\source\repos\week5\ziekenhuis\bin\Debug\net6.0\ziekenhuis.dll
+C:\Users\ASUS\source\repos\week5\ziekenhuis\bin\Debug\net6.0\ziekenhuis.pdb
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.dll
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\refint\ziekenhuis.dll
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.pdb
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ziekenhuis.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\week5\ziekenhuis\obj\Debug\net6.0\ref\ziekenhuis.dll

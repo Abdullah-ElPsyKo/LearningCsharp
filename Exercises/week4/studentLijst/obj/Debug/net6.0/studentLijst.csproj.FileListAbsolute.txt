@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\week4\studentLijst\bin\Debug\net6.0\studentLijst.exe
+C:\Users\ASUS\source\repos\week4\studentLijst\bin\Debug\net6.0\studentLijst.deps.json
+C:\Users\ASUS\source\repos\week4\studentLijst\bin\Debug\net6.0\studentLijst.runtimeconfig.json
+C:\Users\ASUS\source\repos\week4\studentLijst\bin\Debug\net6.0\studentLijst.dll
+C:\Users\ASUS\source\repos\week4\studentLijst\bin\Debug\net6.0\studentLijst.pdb
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.dll
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\refint\studentLijst.dll
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.pdb
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\studentLijst.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\week4\studentLijst\obj\Debug\net6.0\ref\studentLijst.dll

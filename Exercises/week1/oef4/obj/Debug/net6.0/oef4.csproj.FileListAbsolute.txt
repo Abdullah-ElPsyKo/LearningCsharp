@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\week1\oef4\bin\Debug\net6.0\oef4.exe
+C:\Users\ASUS\source\repos\week1\oef4\bin\Debug\net6.0\oef4.deps.json
+C:\Users\ASUS\source\repos\week1\oef4\bin\Debug\net6.0\oef4.runtimeconfig.json
+C:\Users\ASUS\source\repos\week1\oef4\bin\Debug\net6.0\oef4.dll
+C:\Users\ASUS\source\repos\week1\oef4\bin\Debug\net6.0\oef4.pdb
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.dll
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\refint\oef4.dll
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.pdb
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\oef4.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\week1\oef4\obj\Debug\net6.0\ref\oef4.dll

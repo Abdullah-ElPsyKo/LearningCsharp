@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\week1\oef5\bin\Debug\net6.0\oef5.exe
+C:\Users\ASUS\source\repos\week1\oef5\bin\Debug\net6.0\oef5.deps.json
+C:\Users\ASUS\source\repos\week1\oef5\bin\Debug\net6.0\oef5.runtimeconfig.json
+C:\Users\ASUS\source\repos\week1\oef5\bin\Debug\net6.0\oef5.dll
+C:\Users\ASUS\source\repos\week1\oef5\bin\Debug\net6.0\oef5.pdb
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.dll
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\refint\oef5.dll
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.pdb
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\oef5.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\week1\oef5\obj\Debug\net6.0\ref\oef5.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\refint\oef5.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\bin\Debug\net6.0\oef5.exe
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\bin\Debug\net6.0\oef5.deps.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\bin\Debug\net6.0\oef5.runtimeconfig.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\bin\Debug\net6.0\oef5.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\bin\Debug\net6.0\oef5.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\oef5.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\OOP\week1\oef5\obj\Debug\net6.0\ref\oef5.dll

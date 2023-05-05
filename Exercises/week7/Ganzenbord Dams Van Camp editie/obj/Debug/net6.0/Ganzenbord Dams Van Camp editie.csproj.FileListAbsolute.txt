@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\bin\Debug\net6.0\Ganzenbord Dams Van Camp editie.exe
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\bin\Debug\net6.0\Ganzenbord Dams Van Camp editie.deps.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\bin\Debug\net6.0\Ganzenbord Dams Van Camp editie.runtimeconfig.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\bin\Debug\net6.0\Ganzenbord Dams Van Camp editie.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\bin\Debug\net6.0\Ganzenbord Dams Van Camp editie.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\refint\Ganzenbord Dams Van Camp editie.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\Ganzenbord Dams Van Camp editie.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week7\Ganzenbord Dams Van Camp editie\obj\Debug\net6.0\ref\Ganzenbord Dams Van Camp editie.dll

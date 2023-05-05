@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ganzenbord Dams Van Camp editie/1.0.0": {
+        "runtime": {
+          "Ganzenbord Dams Van Camp editie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ganzenbord Dams Van Camp editie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Drawing;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -68,6 +70,13 @@ namespace Ganzenbord_Dams_Van_Camp_editie
     public class Ganzenbord
     {
         private List<Speelvakje> SpeelVakjes = new List<Speelvakje>();
+        public Ganzenbord(bool kleurBool)
+        {
+            if (kleurBool == true)
+            {
+                
+            }
+        }
         public Ganzenbord()
         {
             for (int i = 0; i < 10; i++)
@@ -128,6 +137,23 @@ namespace Ganzenbord_Dams_Van_Camp_editie
                     SpeelVakjes[i].ToonVakje();
                 }
             }
+        }
+    }
+    public class KleurVakje : Speelvakje
+    {
+        public override void ToonVakje()
+        {
+            if (base.BeweegVakjes < 0)
+            {
+                Console.BackgroundColor = ConsoleColor.Red;
+                Console.ForegroundColor = ConsoleColor.White;
+            }
+            else
+            {
+                Console.BackgroundColor = ConsoleColor.Green;
+                Console.ForegroundColor = ConsoleColor.Black;
+            }
+            base.ToonVakje();
         }
     }
 }

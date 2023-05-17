@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Ganzenbord bord = new Ganzenbord();
+            Ganzenbord bord = new Ganzenbord(true);
             while (true)
             {
                 Console.Clear();

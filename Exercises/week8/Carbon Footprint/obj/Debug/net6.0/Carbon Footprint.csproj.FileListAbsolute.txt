@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.exe
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.deps.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.runtimeconfig.json
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\refint\Carbon Footprint.dll
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.pdb
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - AP Hogeschool Antwerpen\LearningCsharp\LearningCsharp\Exercises\week8\Carbon Footprint\obj\Debug\net6.0\ref\Carbon Footprint.dll
